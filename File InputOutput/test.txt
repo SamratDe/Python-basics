@@ -1,0 +1,4 @@
+This is a text file. This will be used for learning File I/O.
+First Line
+Second Line
+Third Line
