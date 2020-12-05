@@ -1,0 +1,7 @@
+A Python method is just like a function, except it is attached to an object.
+We call method on an object and can make changes to the object.
+
+Whereas,
+ 
+Python function is a sequence of statements that execute in a certain order, given a name.
+They let us implement code reusability
