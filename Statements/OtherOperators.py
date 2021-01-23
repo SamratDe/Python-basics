@@ -18,7 +18,7 @@ myList = list(range(2, 10, 2))
 # enumerate - 
 str = 'Hello'
 for indx, letter in enumerate(str):     # enumerate output as tuples -> (index val, str character)
-    print('At %d is the letter %d' % (indx, letter))
+    print('At %d is the letter %s' % (indx, letter))
 
 
 
